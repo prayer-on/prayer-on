@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there! 👋
 
 I'm Prayer, a Full-stack developer specialized in the MERN stack and focused mainly on the front-end side. Currently, I'm searching for a position where I can show my skills in the tech world and learn from daily challenges through work experience. Here are some of my projects, and if you're interested in what I do, you can contact me via [email](mailto:prayer.onaiwu@gmail.com) or [LinkedIn](https://www.linkedin.com/in/prayer-onaiwu/) in the info section.
 
