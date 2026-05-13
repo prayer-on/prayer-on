@@ -5,6 +5,7 @@ I'm Prayer, a Full-stack developer specialized in the MERN stack and focused mai
 # Tools 
 - Frontend: React, JavaScript, Sass
 - Backend: Node.js, Express.js, MongoDB
+- Deployment/Cloud: Vercel, Render
 - Extra Tools: Git, GitHub, Adobe Illustrator, Notion
 
 # About me 
