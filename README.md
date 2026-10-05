@@ -1,18 +1,19 @@
-# Hi there! 👋
+# Hi there! 👋 I'm Prayer
 
-I'm Prayer, a Full-stack developer specialized in the MERN stack and focused mainly on the front-end side. Currently, I'm searching for a position where I can show my skills in the tech world and learn from daily challenges through work experience. Here are some of my projects, and if you're interested in what I do, you can contact me via [email](mailto:prayer.onaiwu@gmail.com) or [LinkedIn](https://www.linkedin.com/in/prayer-onaiwu/) in the info section.
+* I am a technical professional with a unique hybrid background, bridging the gap between **Physical Manufacturing Processes** and **Digital Software Logic**.
+---
+### 🔧 What I Do
+* **Industrial Tech:** 3 years of hands-on experience in CNC manufacturing environments, technical drawing interpretation (AutoCAD), and dimensional quality control.
+* **Software Engineering:** EQF Level 5 qualification in Web Development. Proficient in structuring clean logic, data validation schemas, and procedural code architectures.
+---
+### 🛠️ Core Tools & Technologies
+* **CAD/CAM & Engineering:** AutoCAD (2D/3D Modeling), Blueprint Reading, Orthographic Projections, Geometric Tolerances (GD&T).
+* **Programming Languages & Frameworks:** React, TypeScript, JavaScript, Node.js, Express.js, MongoDB, Git/GitHub.
 
-# Tools 
-- Frontend: React, JavaScript, TypeScript, Sass
-- Backend: Node.js, Express.js, MongoDB
-- Deployment/Cloud: Vercel, Render
-- Extra Tools: Git, GitHub, Adobe Illustrator, Photoshop, Notion
+---
+*I leverage my programming mindset to master complex industrial data flows, CAD/CAM suites, and work-preparation workflows at an accelerated pace.*
 
-# About me 
-- I love to travel ✈️
-- I listen to a lot of music 🎧
-- I'm a creative person: UIs, fashion, logos/designs 🎨
-
+📬 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/prayer-onaiwu/) | **Email:** prayer.onaiwu@gmail.com
 
 
 
